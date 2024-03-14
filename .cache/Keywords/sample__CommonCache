@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "5ED4230CB3317EDD1F6117F41DA81522",
+  "keywordClasses": [
+    {
+      "name": "sample.CommonCache",
+      "keywordMethods": []
+    },
+    {
+      "name": "sample.CommonCache$CacheEntry",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

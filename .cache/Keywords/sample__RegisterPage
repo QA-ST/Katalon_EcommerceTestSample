@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DCC39048F55A1516AB149C10D39E7E63",
+  "keywordClasses": [
+    {
+      "name": "sample.RegisterPage",
+      "keywordMethods": [
+        {
+          "name": "UserRegister",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "2E8EAC530DC1479EAE67E07342B5579B",
+  "keywordClasses": [
+    {
+      "name": "sample.pproductPage",
+      "keywordMethods": [
+        {
+          "name": "ClickAddToCartButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CloseProductAddedNotificationBar",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

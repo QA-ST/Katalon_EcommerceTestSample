@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "E9EDB321B2101F000635E6FDF04BF722",
+  "keywordClasses": [
+    {
+      "name": "sample.NavbarActions",
+      "keywordMethods": [
+        {
+          "name": "ClickShoppingCartLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickOnRegisterLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickOnLoginLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickOnLogoutLink",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

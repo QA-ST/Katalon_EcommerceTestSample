@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "CC4B99D6A181E4ADF32FD8EDAFDA5499",
+  "keywordClasses": [
+    {
+      "name": "sample.HomePage",
+      "keywordMethods": [
+        {
+          "name": "ClickOnDesktopTopMenuOption_ComputerDropdown",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

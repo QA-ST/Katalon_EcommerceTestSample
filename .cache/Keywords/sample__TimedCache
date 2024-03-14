@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D68D0FEECD3385BFF512A3136611771C",
+  "keywordClasses": [
+    {
+      "name": "sample.TimedCache",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginDifferentUserTypes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47a7c4e1-f7ad-410f-846b-5f4a5dbdaf67</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8f542dae-fd79-49d8-bf5d-bf29821350cd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginCredentials_SauceDemo</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8f542dae-fd79-49d8-bf5d-bf29821350cd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>94cff034-d325-4851-a8e9-5910a380b423</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8f542dae-fd79-49d8-bf5d-bf29821350cd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>b2e23d2d-4a09-4a53-a44b-8c780a4f11c8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'username'</defaultValue>
+      <description></description>
+      <id>94cff034-d325-4851-a8e9-5910a380b423</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>b2e23d2d-4a09-4a53-a44b-8c780a4f11c8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

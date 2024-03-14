@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "9DF877893F81A147D73596DB03919EA2",
+  "keywordClasses": [
+    {
+      "name": "sample.DesktopPage",
+      "keywordMethods": [
+        {
+          "name": "NavigateToDigitalStormDesktopProductPage",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

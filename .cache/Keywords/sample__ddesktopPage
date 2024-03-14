@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "CDCDB6D1BE46B459C54CDD08F84ACA88",
+  "keywordClasses": [
+    {
+      "name": "sample.ddesktopPage",
+      "keywordMethods": [
+        {
+          "name": "NavigateToDigitalStormDesktopProductPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

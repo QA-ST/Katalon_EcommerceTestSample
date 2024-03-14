@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B2D27B92E6153233E2A42D09649D17AB",
+  "keywordClasses": [
+    {
+      "name": "sample.ccartPage",
+      "keywordMethods": [
+        {
+          "name": "CompleteCheckoutProcess",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

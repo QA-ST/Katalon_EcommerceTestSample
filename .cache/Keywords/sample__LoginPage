@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "328BBDD4C7EFD85FD8436876DA1BCCF3",
+  "keywordClasses": [
+    {
+      "name": "sample.LoginPage",
+      "keywordMethods": [
+        {
+          "name": "UserLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

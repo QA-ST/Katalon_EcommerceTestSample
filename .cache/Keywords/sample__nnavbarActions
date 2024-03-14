@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A922134D27F5B3C6A36E11E6D036CC83",
+  "keywordClasses": [
+    {
+      "name": "sample.nnavbarActions",
+      "keywordMethods": [
+        {
+          "name": "ClickShoppingCartLink",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

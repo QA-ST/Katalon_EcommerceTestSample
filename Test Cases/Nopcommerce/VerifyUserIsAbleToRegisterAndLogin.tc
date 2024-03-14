@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyUserIsAbleToRegisterAndLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7bad198-205a-44aa-8073-33be0a2ab3a4</testCaseGuid>
+</TestCaseEntity>

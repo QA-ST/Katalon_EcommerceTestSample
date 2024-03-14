@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DEC6828C67ED25E166415A90CAE9C8A4",
+  "keywordClasses": [
+    {
+      "name": "sample.CartPage",
+      "keywordMethods": [
+        {
+          "name": "CompleteCheckoutProcess",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
